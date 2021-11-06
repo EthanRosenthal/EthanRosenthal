@@ -24,7 +24,7 @@ jobs:
     - name: Install dependencies
       run: |
         poetry config virtualenvs.create false
-        poetry install
+        poetry install --no-dev
     - name: Run discovered weekly
       env:
         PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
