@@ -9,7 +9,7 @@ I [tweet](https://twitter.com/eprosenthal) sometimes, mostly about data things, 
 My repositories, sorted by star count, descending are:
 
 <!-- BEGIN LIST -->
-- 176 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
+- 180 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
 - 100 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
 - 91 ⭐ [nannernest](https://github.com/EthanRosenthal/nannernest): Optimal peanut butter and banana sandwiches (2020)
 - 69 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
@@ -26,9 +26,12 @@ My repositories, sorted by star count, descending are:
 - 2 ⭐ [festival-chatter](https://github.com/EthanRosenthal/festival-chatter): Quantifying summer music festivals (2014)
 - 2 ⭐ [fml](https://github.com/EthanRosenthal/fml): fantasy movie league as an allocation problem (2018)
 - 1 ⭐ [advent-of-code-2020](https://github.com/EthanRosenthal/advent-of-code-2020):  (2020)
+- 1 ⭐ [advent-of-code-2021](https://github.com/EthanRosenthal/advent-of-code-2021):  (2021)
 - 1 ⭐ [stm-routines](https://github.com/EthanRosenthal/stm-routines): STM analysis in MATLAB and python. (2014)
 - 0 ⭐ [BaseballProject](https://github.com/EthanRosenthal/BaseballProject):  (2014)
 - 0 ⭐ [blog](https://github.com/EthanRosenthal/blog): **deprecated** (2014)
+- 0 ⭐ [citi-bikecaster](https://github.com/EthanRosenthal/citi-bikecaster): some lambdas to ping the citi bike api (2019)
+- 0 ⭐ [citi-bikecaster-model](https://github.com/EthanRosenthal/citi-bikecaster-model): Model training and prediction for the citi-bikecaster (2019)
 - 0 ⭐ [DataPiques](https://github.com/EthanRosenthal/DataPiques): **deprecated** (2015)
 - 0 ⭐ [datasciencecoursera](https://github.com/EthanRosenthal/datasciencecoursera):  (2014)
 - 0 ⭐ [EthanRosenthal](https://github.com/EthanRosenthal/EthanRosenthal): Public README (2021)
