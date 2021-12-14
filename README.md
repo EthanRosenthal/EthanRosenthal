@@ -10,9 +10,9 @@ My repositories, sorted by star count, descending are:
 
 <!-- BEGIN LIST -->
 - 180 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
-- 100 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
+- 101 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
 - 91 ⭐ [nannernest](https://github.com/EthanRosenthal/nannernest): Optimal peanut butter and banana sandwiches (2020)
-- 69 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
+- 70 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
 - 52 ⭐ [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source): **deprecated** (2015)
 - 45 ⭐ [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch): content discovery... IN 3D (2016)
 - 6 ⭐ [alignimation](https://github.com/EthanRosenthal/alignimation): Automated image registration. Registrationimation was too much of a mouthful. (2021)
