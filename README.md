@@ -9,13 +9,13 @@ I [tweet](https://twitter.com/eprosenthal) sometimes, mostly about data things, 
 My repositories, sorted by star count, descending are:
 
 <!-- BEGIN LIST -->
-- 180 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
+- 181 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
 - 101 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
 - 91 ⭐ [nannernest](https://github.com/EthanRosenthal/nannernest): Optimal peanut butter and banana sandwiches (2020)
-- 70 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
+- 71 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
 - 52 ⭐ [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source): **deprecated** (2015)
 - 45 ⭐ [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch): content discovery... IN 3D (2016)
-- 6 ⭐ [alignimation](https://github.com/EthanRosenthal/alignimation): Automated image registration. Registrationimation was too much of a mouthful. (2021)
+- 7 ⭐ [alignimation](https://github.com/EthanRosenthal/alignimation): Automated image registration. Registrationimation was too much of a mouthful. (2021)
 - 6 ⭐ [bike-listener](https://github.com/EthanRosenthal/bike-listener): track citibike station occupancy (2016)
 - 5 ⭐ [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly): Backup each Discover Weekly to playlists (2021)
 - 5 ⭐ [gpu-streamz](https://github.com/EthanRosenthal/gpu-streamz): Live GPU monitoring with streamz (2018)
