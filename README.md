@@ -9,8 +9,8 @@ I [tweet](https://twitter.com/eprosenthal) sometimes, mostly about data things, 
 My repositories, sorted by star count, descending are:
 
 <!-- BEGIN LIST -->
-- 182 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
-- 102 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
+- 185 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
+- 103 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
 - 91 ⭐ [nannernest](https://github.com/EthanRosenthal/nannernest): Optimal peanut butter and banana sandwiches (2020)
 - 72 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
 - 52 ⭐ [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source): **deprecated** (2015)
