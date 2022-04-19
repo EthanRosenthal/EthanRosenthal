@@ -9,15 +9,15 @@ I [tweet](https://twitter.com/eprosenthal) sometimes, mostly about data things, 
 My repositories, sorted by star count, descending are:
 
 <!-- BEGIN LIST -->
-- 187 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
+- 188 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
 - 107 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
 - 96 ⭐ [nannernest](https://github.com/EthanRosenthal/nannernest): Optimal peanut butter and banana sandwiches (2020)
 - 77 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
 - 52 ⭐ [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source): **deprecated** (2015)
 - 45 ⭐ [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch): content discovery... IN 3D (2016)
+- 19 ⭐ [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly): Backup each Discover Weekly to playlists (2021)
 - 7 ⭐ [alignimation](https://github.com/EthanRosenthal/alignimation): Automated image registration. Registrationimation was too much of a mouthful. (2021)
 - 6 ⭐ [bike-listener](https://github.com/EthanRosenthal/bike-listener): track citibike station occupancy (2016)
-- 5 ⭐ [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly): Backup each Discover Weekly to playlists (2021)
 - 5 ⭐ [newtonfm](https://github.com/EthanRosenthal/newtonfm): Factorization Machines with Newton's Method (2017)
 - 4 ⭐ [gpu-streamz](https://github.com/EthanRosenthal/gpu-streamz): Live GPU monitoring with streamz (2018)
 - 4 ⭐ [serverless-event-collector](https://github.com/EthanRosenthal/serverless-event-collector): It's what the name says it is. (2020)
