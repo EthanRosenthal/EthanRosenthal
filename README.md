@@ -10,9 +10,9 @@ My repositories, sorted by star count, descending are:
 
 <!-- BEGIN LIST -->
 - 188 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
-- 107 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
+- 108 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
 - 96 ⭐ [nannernest](https://github.com/EthanRosenthal/nannernest): Optimal peanut butter and banana sandwiches (2020)
-- 77 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
+- 78 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
 - 52 ⭐ [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source): **deprecated** (2015)
 - 45 ⭐ [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch): content discovery... IN 3D (2016)
 - 19 ⭐ [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly): Backup each Discover Weekly to playlists (2021)
@@ -23,6 +23,7 @@ My repositories, sorted by star count, descending are:
 - 4 ⭐ [serverless-event-collector](https://github.com/EthanRosenthal/serverless-event-collector): It's what the name says it is. (2020)
 - 4 ⭐ [website-source](https://github.com/EthanRosenthal/website-source): My personal Hugo-driven static website (2018)
 - 3 ⭐ [distmem](https://github.com/EthanRosenthal/distmem):  (2016)
+- 3 ⭐ [route-response-theory](https://github.com/EthanRosenthal/route-response-theory):  (2022)
 - 2 ⭐ [festival-chatter](https://github.com/EthanRosenthal/festival-chatter): Quantifying summer music festivals (2014)
 - 2 ⭐ [fml](https://github.com/EthanRosenthal/fml): fantasy movie league as an allocation problem (2018)
 - 1 ⭐ [advent-of-code-2020](https://github.com/EthanRosenthal/advent-of-code-2020):  (2020)
