@@ -9,7 +9,7 @@ I [tweet](https://twitter.com/eprosenthal) sometimes, mostly about data things, 
 My repositories, sorted by star count, descending are:
 
 <!-- BEGIN LIST -->
-- 188 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
+- 190 ⭐ [skits](https://github.com/EthanRosenthal/skits): scikit-learn-inspired time series (2018)
 - 109 ⭐ [torchmf](https://github.com/EthanRosenthal/torchmf): matrix factorization in PyTorch (2017)
 - 97 ⭐ [nannernest](https://github.com/EthanRosenthal/nannernest): Optimal peanut butter and banana sandwiches (2020)
 - 78 ⭐ [spacecutter](https://github.com/EthanRosenthal/spacecutter): Ordinal regression models in PyTorch (2018)
