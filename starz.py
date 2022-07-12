@@ -3,8 +3,8 @@ import os
 from github import Github
 import pandas as pd
 
-# A unicode star emoji
-STAR = u"\u2606"
+# A star emoji
+STAR = "⭐"
 
 
 token = os.environ["PERSONAL_ACCESS_TOKEN"]
