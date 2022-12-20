@@ -11,13 +11,13 @@ My repositories, sorted by star count, descending are:
 <!-- BEGIN LIST -->
 |   ⭐ | name                                                                                       | description                                                                   |   created |
 |----:|:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|----------:|
-| 195 | [skits](https://github.com/EthanRosenthal/skits)                                           | scikit-learn-inspired time series                                             |      2018 |
+| 196 | [skits](https://github.com/EthanRosenthal/skits)                                           | scikit-learn-inspired time series                                             |      2018 |
 | 118 | [torchmf](https://github.com/EthanRosenthal/torchmf)                                       | matrix factorization in PyTorch                                               |      2017 |
 |  98 | [nannernest](https://github.com/EthanRosenthal/nannernest)                                 | Optimal peanut butter and banana sandwiches                                   |      2020 |
-|  95 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
+|  96 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
 |  52 | [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source)                   | **deprecated**                                                                |      2015 |
+|  45 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
 |  45 | [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch)                             | content discovery... IN 3D                                                    |      2016 |
-|  44 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
 |  19 | [medium-data-bakeoff](https://github.com/EthanRosenthal/medium-data-bakeoff)               | A python library bakeoff for medium sized datasets                            |      2022 |
 |  10 | [aispy](https://github.com/EthanRosenthal/aispy)                                           | ML monitoring with materialize.com                                            |      2022 |
 |   9 | [alignimation](https://github.com/EthanRosenthal/alignimation)                             | Automated image registration. Registrationimation was too much of a mouthful. |      2021 |
