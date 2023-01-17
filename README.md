@@ -16,18 +16,18 @@ My repositories, sorted by star count, descending are:
 |  98 | [nannernest](https://github.com/EthanRosenthal/nannernest)                                 | Optimal peanut butter and banana sandwiches                                   |      2020 |
 |  96 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
 |  52 | [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source)                   | **deprecated**                                                                |      2015 |
-|  47 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
+|  48 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
 |  45 | [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch)                             | content discovery... IN 3D                                                    |      2016 |
-|  20 | [medium-data-bakeoff](https://github.com/EthanRosenthal/medium-data-bakeoff)               | A python library bakeoff for medium sized datasets                            |      2022 |
+|  21 | [medium-data-bakeoff](https://github.com/EthanRosenthal/medium-data-bakeoff)               | A python library bakeoff for medium sized datasets                            |      2022 |
 |  10 | [aispy](https://github.com/EthanRosenthal/aispy)                                           | ML monitoring with materialize.com                                            |      2022 |
 |   9 | [alignimation](https://github.com/EthanRosenthal/alignimation)                             | Automated image registration. Registrationimation was too much of a mouthful. |      2021 |
-|   6 | [bike-listener](https://github.com/EthanRosenthal/bike-listener)                           | track citibike station occupancy                                              |      2016 |
+|   7 | [bike-listener](https://github.com/EthanRosenthal/bike-listener)                           | track citibike station occupancy                                              |      2016 |
+|   6 | [website-source](https://github.com/EthanRosenthal/website-source)                         | My personal Hugo-driven static website                                        |      2018 |
 |   5 | [newtonfm](https://github.com/EthanRosenthal/newtonfm)                                     | Factorization Machines with Newton's Method                                   |      2017 |
-|   5 | [website-source](https://github.com/EthanRosenthal/website-source)                         | My personal Hugo-driven static website                                        |      2018 |
 |   5 | [serverless-event-collector](https://github.com/EthanRosenthal/serverless-event-collector) | It's what the name says it is.                                                |      2020 |
 |   4 | [gpu-streamz](https://github.com/EthanRosenthal/gpu-streamz)                               | Live GPU monitoring with streamz                                              |      2018 |
-|   3 | [distmem](https://github.com/EthanRosenthal/distmem)                                       |                                                                               |      2016 |
 |   3 | [route-response-theory](https://github.com/EthanRosenthal/route-response-theory)           |                                                                               |      2022 |
+|   3 | [distmem](https://github.com/EthanRosenthal/distmem)                                       |                                                                               |      2016 |
 |   2 | [festival-chatter](https://github.com/EthanRosenthal/festival-chatter)                     | Quantifying summer music festivals                                            |      2014 |
 |   2 | [fml](https://github.com/EthanRosenthal/fml)                                               | fantasy movie league as an allocation problem                                 |      2018 |
 |   1 | [advent-of-code-2021](https://github.com/EthanRosenthal/advent-of-code-2021)               |                                                                               |      2021 |
