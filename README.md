@@ -13,9 +13,9 @@ My repositories, sorted by star count, descending are:
 |----:|:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|----------:|
 | 197 | [skits](https://github.com/EthanRosenthal/skits)                                           | scikit-learn-inspired time series                                             |      2018 |
 | 123 | [torchmf](https://github.com/EthanRosenthal/torchmf)                                       | matrix factorization in PyTorch                                               |      2017 |
-| 103 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
+| 104 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
 |  99 | [nannernest](https://github.com/EthanRosenthal/nannernest)                                 | Optimal peanut butter and banana sandwiches                                   |      2020 |
-|  56 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
+|  57 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
 |  52 | [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source)                   | **deprecated**                                                                |      2015 |
 |  45 | [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch)                             | content discovery... IN 3D                                                    |      2016 |
 |  23 | [medium-data-bakeoff](https://github.com/EthanRosenthal/medium-data-bakeoff)               | A python library bakeoff for medium sized datasets                            |      2022 |
@@ -23,15 +23,15 @@ My repositories, sorted by star count, descending are:
 |   9 | [alignimation](https://github.com/EthanRosenthal/alignimation)                             | Automated image registration. Registrationimation was too much of a mouthful. |      2021 |
 |   7 | [bike-listener](https://github.com/EthanRosenthal/bike-listener)                           | track citibike station occupancy                                              |      2016 |
 |   6 | [website-source](https://github.com/EthanRosenthal/website-source)                         | My personal Hugo-driven static website                                        |      2018 |
+|   6 | [serverless-event-collector](https://github.com/EthanRosenthal/serverless-event-collector) | It's what the name says it is.                                                |      2020 |
+|   5 | [nn-vs-ann](https://github.com/EthanRosenthal/nn-vs-ann)                                   | Nearest Neighbors vs Approximate Nearest Neighbors                            |      2023 |
 |   5 | [newtonfm](https://github.com/EthanRosenthal/newtonfm)                                     | Factorization Machines with Newton's Method                                   |      2017 |
-|   5 | [serverless-event-collector](https://github.com/EthanRosenthal/serverless-event-collector) | It's what the name says it is.                                                |      2020 |
 |   4 | [gpu-streamz](https://github.com/EthanRosenthal/gpu-streamz)                               | Live GPU monitoring with streamz                                              |      2018 |
-|   3 | [route-response-theory](https://github.com/EthanRosenthal/route-response-theory)           |                                                                               |      2022 |
 |   3 | [distmem](https://github.com/EthanRosenthal/distmem)                                       |                                                                               |      2016 |
+|   3 | [route-response-theory](https://github.com/EthanRosenthal/route-response-theory)           |                                                                               |      2022 |
 |   2 | [fml](https://github.com/EthanRosenthal/fml)                                               | fantasy movie league as an allocation problem                                 |      2018 |
 |   2 | [festival-chatter](https://github.com/EthanRosenthal/festival-chatter)                     | Quantifying summer music festivals                                            |      2014 |
 |   1 | [advent-of-code-2021](https://github.com/EthanRosenthal/advent-of-code-2021)               |                                                                               |      2021 |
-|   1 | [nn-vs-ann](https://github.com/EthanRosenthal/nn-vs-ann)                                   | Nearest Neighbors vs Approximate Nearest Neighbors                            |      2023 |
 |   1 | [stm-routines](https://github.com/EthanRosenthal/stm-routines)                             | STM analysis in MATLAB and python.                                            |      2014 |
 |   1 | [advent-of-code-2020](https://github.com/EthanRosenthal/advent-of-code-2020)               |                                                                               |      2020 |
 |   0 | [houston-hall](https://github.com/EthanRosenthal/houston-hall)                             |                                                                               |      2016 |
