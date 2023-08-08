@@ -19,7 +19,7 @@ My repositories, sorted by star count, descending are:
 |  53 | [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source)                   | **deprecated**                                                                |      2015 |
 |  45 | [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch)                             | content discovery... IN 3D                                                    |      2016 |
 |  22 | [medium-data-bakeoff](https://github.com/EthanRosenthal/medium-data-bakeoff)               | A python library bakeoff for medium sized datasets                            |      2022 |
-|  15 | [nn-vs-ann](https://github.com/EthanRosenthal/nn-vs-ann)                                   | Nearest Neighbors vs Approximate Nearest Neighbors                            |      2023 |
+|  17 | [nn-vs-ann](https://github.com/EthanRosenthal/nn-vs-ann)                                   | Nearest Neighbors vs Approximate Nearest Neighbors                            |      2023 |
 |  10 | [aispy](https://github.com/EthanRosenthal/aispy)                                           | ML monitoring with materialize.com                                            |      2022 |
 |   9 | [alignimation](https://github.com/EthanRosenthal/alignimation)                             | Automated image registration. Registrationimation was too much of a mouthful. |      2021 |
 |   7 | [bike-listener](https://github.com/EthanRosenthal/bike-listener)                           | track citibike station occupancy                                              |      2016 |
