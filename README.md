@@ -12,8 +12,8 @@ My repositories, sorted by star count, descending are:
 |   ⭐ | name                                                                                       | description                                                                   |   created |
 |----:|:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|----------:|
 | 197 | [skits](https://github.com/EthanRosenthal/skits)                                           | scikit-learn-inspired time series                                             |      2018 |
-| 124 | [torchmf](https://github.com/EthanRosenthal/torchmf)                                       | matrix factorization in PyTorch                                               |      2017 |
-| 120 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
+| 125 | [torchmf](https://github.com/EthanRosenthal/torchmf)                                       | matrix factorization in PyTorch                                               |      2017 |
+| 122 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
 |  98 | [nannernest](https://github.com/EthanRosenthal/nannernest)                                 | Optimal peanut butter and banana sandwiches                                   |      2020 |
 |  64 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
 |  53 | [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source)                   | **deprecated**                                                                |      2015 |
