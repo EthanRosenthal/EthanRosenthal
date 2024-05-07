@@ -24,7 +24,7 @@ My repositories, sorted by star count, descending are:
 |   9 | [alignimation](https://github.com/EthanRosenthal/alignimation)                             | Automated image registration. Registrationimation was too much of a mouthful. |      2021 |
 |   7 | [bike-listener](https://github.com/EthanRosenthal/bike-listener)                           | track citibike station occupancy                                              |      2016 |
 |   6 | [website-source](https://github.com/EthanRosenthal/website-source)                         | My personal Hugo-driven static website                                        |      2018 |
-|   6 | [serverless-event-collector](https://github.com/EthanRosenthal/serverless-event-collector) | It's what the name says it is.                                                |      2020 |
+|   5 | [serverless-event-collector](https://github.com/EthanRosenthal/serverless-event-collector) | It's what the name says it is.                                                |      2020 |
 |   5 | [newtonfm](https://github.com/EthanRosenthal/newtonfm)                                     | Factorization Machines with Newton's Method                                   |      2017 |
 |   4 | [gpu-streamz](https://github.com/EthanRosenthal/gpu-streamz)                               | Live GPU monitoring with streamz                                              |      2018 |
 |   3 | [route-response-theory](https://github.com/EthanRosenthal/route-response-theory)           |                                                                               |      2022 |
