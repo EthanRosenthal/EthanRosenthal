@@ -11,11 +11,11 @@ My repositories, sorted by star count, descending are:
 <!-- BEGIN LIST -->
 |   ⭐ | name                                                                                       | description                                                                   |   created |
 |----:|:-------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------|----------:|
-| 198 | [skits](https://github.com/EthanRosenthal/skits)                                           | scikit-learn-inspired time series                                             |      2018 |
+| 199 | [skits](https://github.com/EthanRosenthal/skits)                                           | scikit-learn-inspired time series                                             |      2018 |
 | 142 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
 | 128 | [torchmf](https://github.com/EthanRosenthal/torchmf)                                       | matrix factorization in PyTorch                                               |      2017 |
 |  98 | [nannernest](https://github.com/EthanRosenthal/nannernest)                                 | Optimal peanut butter and banana sandwiches                                   |      2020 |
-|  70 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
+|  71 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
 |  53 | [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source)                   | **deprecated**                                                                |      2015 |
 |  49 | [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch)                             | content discovery... IN 3D                                                    |      2016 |
 |  25 | [nn-vs-ann](https://github.com/EthanRosenthal/nn-vs-ann)                                   | Nearest Neighbors vs Approximate Nearest Neighbors                            |      2023 |
