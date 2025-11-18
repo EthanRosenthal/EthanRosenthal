@@ -15,7 +15,7 @@ My repositories, sorted by star count, descending are:
 | 147 | [spacecutter](https://github.com/EthanRosenthal/spacecutter)                               | Ordinal regression models in PyTorch                                          |      2018 |
 | 130 | [torchmf](https://github.com/EthanRosenthal/torchmf)                                       | matrix factorization in PyTorch                                               |      2017 |
 |  99 | [nannernest](https://github.com/EthanRosenthal/nannernest)                                 | Optimal peanut butter and banana sandwiches                                   |      2020 |
-|  79 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
+|  80 | [discovered-weekly](https://github.com/EthanRosenthal/discovered-weekly)                   | Backup each Discover Weekly to playlists                                      |      2021 |
 |  53 | [DataPiques_source](https://github.com/EthanRosenthal/DataPiques_source)                   | **deprecated**                                                                |      2015 |
 |  49 | [rec-a-sketch](https://github.com/EthanRosenthal/rec-a-sketch)                             | content discovery... IN 3D                                                    |      2016 |
 |  25 | [nn-vs-ann](https://github.com/EthanRosenthal/nn-vs-ann)                                   | Nearest Neighbors vs Approximate Nearest Neighbors                            |      2023 |
