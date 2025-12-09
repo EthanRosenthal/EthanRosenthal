@@ -28,9 +28,9 @@ My repositories, sorted by star count, descending are:
 |   5 | [serverless-event-collector](https://github.com/EthanRosenthal/serverless-event-collector) | It's what the name says it is.                                                |      2020 |
 |   4 | [gpu-streamz](https://github.com/EthanRosenthal/gpu-streamz)                               | Live GPU monitoring with streamz                                              |      2018 |
 |   3 | [distmem](https://github.com/EthanRosenthal/distmem)                                       |                                                                               |      2016 |
+|   3 | [nest2D](https://github.com/EthanRosenthal/nest2D)                                         | Nest2D is a 2D bin packaging tool for python.                                 |      2020 |
 |   3 | [route-response-theory](https://github.com/EthanRosenthal/route-response-theory)           |                                                                               |      2022 |
 |   3 | [fml](https://github.com/EthanRosenthal/fml)                                               | fantasy movie league as an allocation problem                                 |      2018 |
-|   2 | [nest2D](https://github.com/EthanRosenthal/nest2D)                                         | Nest2D is a 2D bin packaging tool for python.                                 |      2020 |
 |   2 | [festival-chatter](https://github.com/EthanRosenthal/festival-chatter)                     | Quantifying summer music festivals                                            |      2014 |
 |   1 | [advent-of-code-2021](https://github.com/EthanRosenthal/advent-of-code-2021)               |                                                                               |      2021 |
 |   1 | [stm-routines](https://github.com/EthanRosenthal/stm-routines)                             | STM analysis in MATLAB and python.                                            |      2014 |
