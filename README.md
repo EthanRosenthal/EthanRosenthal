@@ -4,7 +4,7 @@ I work at [Runway](https://runwayml.com/). My GitHub is mainly a collection of l
 
 I write about many of these side projects on my [blog](https://www.ethanrosenthal.com).
 
-I ~~tweet~~ [toot](https://recsys.social/@ethanrosenthal) / [skeet](https://bsky.app/profile/ethanrosenthal.com) sometimes, mostly about data things, though urbanist rants sneek through.
+I [post](https://bsky.app/profile/ethanrosenthal.com) sometimes, mostly about data things, though urbanist rants sneek through.
 
 My repositories, sorted by star count, descending are:
 
